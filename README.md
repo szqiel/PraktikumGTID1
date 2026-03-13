@@ -1,1 +1,1 @@
-# PraktikumGTID1
+# Praktikum GTI D1
